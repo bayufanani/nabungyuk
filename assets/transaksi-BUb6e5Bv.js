@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as r,c as s,f as t,F as a,b as o}from"./index-BcSnRrxP.js";const c={},n={class:"my-8"};function _(l,f){return r(),s(a,null,t(50,i=>o("h1",n,"Hellow")),64)}const p=e(c,[["render",_]]);export{p as default};
