@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as r,c as n,f as s,F as t,b as c}from"./index-Kllqt0XZ.js";const o={},a={class:"my-8"};function _(i,f){return r(),n(t,null,s(50,m=>c("h1",a,"Rekening")),64)}const p=e(o,[["render",_]]);export{p as default};
