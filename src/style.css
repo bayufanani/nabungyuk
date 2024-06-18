@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --whitish-color: #ecf3f580;
+}
+
+@layer utilities {
+    .bg-whitish {
+        background-color: var(--whitish-color);
+    }
+    .bg-primary {
+        @apply bg-yellow-400;
+    }
+    .card {
+        background-color: var(--whitish-color);
+        @apply backdrop-blur rounded-lg shadow-lg;
+    }
+}
+
+#app {
+    @apply flex flex-col;
+}
+
+.app-titlebar {
+    -webkit-app-region: drag;
+    app-region: drag;
+}
